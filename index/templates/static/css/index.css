@@ -1,7 +1,6 @@
 
-p {
+h1 {
+    color: red;
     text-align: center;
-}
-.centrado{
-    text-align:center;
-}
+    font-size: 22px;
+  }
